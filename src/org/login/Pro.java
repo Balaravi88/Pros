@@ -14,8 +14,7 @@ public static void main(String[] args) {
 		s.add(50);
 		s.add(10);
 		System.out.println(s);
-	int size=s.size();
-	System.out.println(size);
+	
 		
 s.remove(30);
 System.out.println(s);
